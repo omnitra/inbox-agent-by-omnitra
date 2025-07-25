@@ -44,7 +44,7 @@ Inbox Agent™ helps you clean your inbox and summarize the clutter in seconds.
 
 > 📬 Example Summary Email
 
-![Email Screenshot](screenshots/inbox-agent-summary.jpg)
+![Email Screenshot](https://github.com/omnitra/inbox-agent-by-omnitra/blob/main/screenshots/gmail-labels-preview.jpg?raw=true)
 
 ---
 
